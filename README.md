@@ -1,1 +1,1 @@
-# alpha-django
+#Django project
